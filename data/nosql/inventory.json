@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "INV-SKU-12345-RICHFIELD",
+    "sku_id": "SKU-12345",
+    "store_id": "RICHFIELD-MN-001",
+    "region": "MIDWEST",
+    "stock_on_hand": 42,
+    "stock_reserved": 5,
+    "stock_history": [
+      { "date": "2025-02-01", "sold": 8 },
+      { "date": "2025-02-02", "sold": 5 },
+      { "date": "2025-02-03", "sold": 10 }
+    ],
+    "velocity_tags": ["VT_HIGH", "UT_MEDIUM"]
+  }
+]
