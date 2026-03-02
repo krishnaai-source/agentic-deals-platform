@@ -1,5 +1,5 @@
 // WebClientConfig.java
-package com.bestbuy.psychicdeals.config;
+package com.deals.psychicdeals.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
