@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "SKU-12345",
+    "name": "Samsung 65\" 4K UHD Smart TV",
+    "category": "TV",
+    "brand": "Samsung",
+    "attributes": {
+      "resolution": "4K",
+      "screen_size_inches": 65,
+      "panel_type": "QLED",
+      "hdmi_ports": 4
+    }
+  },
+  {
+    "_id": "SKU-67890",
+    "name": "LG 55\" 4K OLED Smart TV",
+    "category": "TV",
+    "brand": "LG",
+    "attributes": {
+      "resolution": "4K",
+      "screen_size_inches": 55,
+      "panel_type": "OLED",
+      "hdmi_ports": 4
+    }
+  }
+]
