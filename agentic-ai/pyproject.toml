@@ -1,0 +1,19 @@
+[project]
+name = "agentic-deals-ai"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi",
+  "uvicorn[standard]",
+  "pydantic",
+  "pymongo",
+  "faiss-cpu",
+  "torch",
+  "langchain",
+  "langgraph",
+  "numpy",
+  "requests"
+]
+
+[tool.setuptools]
+packages = ["src"]
