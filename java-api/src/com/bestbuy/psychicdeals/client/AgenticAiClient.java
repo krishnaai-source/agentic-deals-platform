@@ -1,8 +1,8 @@
 // AgenticAiClient.java
-package com.bestbuy.psychicdeals.client;
+package com.deals.psychicdeals.client;
 
-import com.bestbuy.psychicdeals.dto.DealRequest;
-import com.bestbuy.psychicdeals.dto.DealResponse;
+import com.deals.psychicdeals.dto.DealRequest;
+import com.deals.psychicdeals.dto.DealResponse;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
 
