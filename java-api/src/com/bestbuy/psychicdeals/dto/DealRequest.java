@@ -1,5 +1,5 @@
 // DealRequest.java
-package com.bestbuy.psychicdeals.dto;
+package com.deals.psychicdeals.dto;
 
 import java.util.List;
 
