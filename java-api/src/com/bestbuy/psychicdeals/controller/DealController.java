@@ -1,9 +1,9 @@
 // DealController.java
-package com.bestbuy.psychicdeals.controller;
+package com.deals.psychicdeals.controller;
 
-import com.bestbuy.psychicdeals.client.AgenticAiClient;
-import com.bestbuy.psychicdeals.dto.DealRequest;
-import com.bestbuy.psychicdeals.dto.DealResponse;
+import com.deals.psychicdeals.client.AgenticAiClient;
+import com.deals.psychicdeals.dto.DealRequest;
+import com.deals.psychicdeals.dto.DealResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
