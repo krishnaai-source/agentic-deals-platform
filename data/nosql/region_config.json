@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "REGION-MIDWEST",
+    "region": "MIDWEST",
+    "vt_threshold": 0.75,
+    "ut_threshold": 0.60,
+    "max_deals_per_request": 20,
+    "allowed_categories": ["TV", "LAPTOP", "HEADPHONES"]
+  }
+]
