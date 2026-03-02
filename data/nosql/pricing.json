@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "PRICE-SKU-12345",
+    "sku_id": "SKU-12345",
+    "base_price": 899.99,
+    "current_price": 799.99,
+    "currency": "USD",
+    "discounts": [
+      {
+        "type": "PROMO",
+        "label": "President's Day Sale",
+        "amount": 100.0,
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-20"
+      }
+    ]
+  }
+]
